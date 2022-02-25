@@ -1,5 +1,7 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import { GlobalStyle, Conteiner } from './global';
+import aliasTest from '@/components';
 
 function App() {
   return (
@@ -7,6 +9,7 @@ function App() {
       <GlobalStyle />
       <Conteiner>
         <h1>hello world</h1>
+        <aliasTest />
       </Conteiner>
     </>
   );
