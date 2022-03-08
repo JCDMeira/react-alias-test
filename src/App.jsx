@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 import { GlobalStyle, Conteiner } from './global';
-import aliasTest from '@/components';
+import aliasTest from '@/alias/alias0';
 
 function App() {
   return (
